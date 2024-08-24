@@ -31,7 +31,7 @@ I'm a full-stack developer with a strong focus on backend development. I have ex
 - Golang and Python frameworks
 
 ### 📫 How to reach me:
-- [Your Email](stiven.molina.5010@gmail.com)
+- [Email](stiven.molina.5010@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/marlon-stiven-molina-buitrago-bb95b627a/)
 
 ### ⚡ Fun fact:
