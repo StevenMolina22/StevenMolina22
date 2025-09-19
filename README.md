@@ -1,38 +1,52 @@
 ### Hi there 👋
 
 I want you all to see my projects :)
-They're getting better each time :)
+They’re getting more ambitious and impactful each time 🚀
 
 ---
 
-I'm a full-stack developer with a strong focus on backend development. I have experience working with various technologies across the stack:
+I’m a **developer focused on AI, blockchain, and backend systems**. My work blends **decentralized technologies** with **intelligent systems**, always aiming for scalability, transparency, and real-world impact.
 
-- **Frontend:** React, Next.js, TypeScript, Astro
-- **Backend:** 
-  - Python: Django, Flask, FastAPI
-  - Golang: Sqlc, Fiber
-- **Databases:** Postgres, SQLite, MySQL
+* **AI & Data Systems:**
+
+  * Building **AI agents** and pipelines for automation, decision-making, and data analysis.
+  * Exploring explainable ML models for finance and real-world use cases.
+* **Blockchain Development:**
+
+  * Experience with **Stellar (Soroban, SAC tokens, escrow, milestone funding)**, **Solana (Anchor, PDAs)**, and **Ethereum (ERC-20/721, Hardhat, Foundry)**.
+  * Smart contracts for **tokenization, crowdfunding, and on-chain escrow**.
+  * Interest in blockchain-audited data pipelines and proof-of-inference systems.
+* **Backend & Servers:**
+
+  * **Languages:** Python (Django, Flask, FastAPI), Go (Fiber, sqlc), Rust (systems + blockchain).
+  * Designing **scalable APIs**, high-performance servers, and resilient architectures.
+* **Databases:** Postgres, MySQL, SQLite
 
 ---
 
 ### 🌱 I’m currently learning and improving in:
-- System languages
-- Advanced backend architectures
-- Scalable web applications
+
+* **Decentralized AI** (agents, proof-of-inference, ZK-ML)
+* **Advanced blockchain architectures** (multi-chain, cross-protocol messaging)
+* **Scalable distributed servers** and system design
 
 ### 👯 I’m looking to collaborate on:
-- Open source projects
-- Backend systems and API design
-- Frontend development with cutting-edge tools
+
+* AI × Blockchain projects (automation, finance, supply chain, DeFi security)
+* Open-source decentralized protocols and AI tooling
+* Backend/server infrastructure for high-impact systems
 
 ### 💬 Ask me about:
-- Backend development
-- Full-stack architecture
-- Golang and Python frameworks
+
+* AI systems and blockchain integration
+* Smart contracts (Stellar, Solana, Ethereum)
+* Backend architecture and servers
 
 ### 📫 How to reach me:
-- [Email](stiven.molina.5010@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/marlon-stiven-molina-buitrago-bb95b627a/)
+
+* [Email](stiven.molina.5010@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/steven-ml/)
 
 ### ⚡ Fun fact:
-I’m passionate about improving and learning every day, especially when it comes to systems languages and backend technologies!
+
+I’m passionate about **merging AI and blockchain** to build trustworthy, intelligent, and decentralized systems.
